@@ -1,4 +1,4 @@
-# Alex and Shay 
+# Alex, Shay, and Charles 
 # 12/10/2024
 # Validating String Input (Tiered Assignment)
 
